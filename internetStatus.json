@@ -1,8 +1,8 @@
 {
 	"addonId": "internetStatus",
 	"addonVersionNumber": {
-		"major": 0.0.0,
-		"minor": 0.0.0,
+		"major": 2024.3,
+		"minor": 2019.1,
 		"patch": 0
 	},
 	"addonVersionName": "2024.3",
@@ -11,18 +11,18 @@
 	"description": "Announces internet status and pressing twice opens the internet systray menu. Shortcut: NVDA+Alt+i",
 	"homepage": "https://github.com/hamidrehzaey/internetStatus",
 	"minNVDAVersion": {
-		"major": 0.0.0,
-		"minor": 0.0.0,
+		"major": 2024.3,
+		"minor": 2019.1,
 		"patch": 0
 	},
 	"lastTestedVersion": {
-		"major": 0.0.0,
-		"minor": 0.0.0,
+		"major": 2024.3,
+		"minor": 2019.1,
 		"patch": 0
 	},
 	"channel": "stable",
 	"URL": "https://github.com/hamidrehzaey/internetStatus/releases/download/v2024.3/internetStatus_2024.3.nvda-addon",
-	"sha256": "69D84CA8899800A5575CE31798293CD4FEBAB1D734A07C2E51E56A28E0DF8C82",
+	"sha256": "1dac8e49a443346d1fc2a55b698433dc9f5e8fc287517e08f3686a4c0790b9da",
 	"sourceURL": "https://github.com/hamidrehzaey/internetStatus",
 	"license": "GPL v2",
 	"licenseURL": "https://github.com/nvaccess/addon-datastore/license.MD"
