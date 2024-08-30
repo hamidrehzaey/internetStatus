@@ -1,2 +1,2 @@
-summary = "{addon_summary}"
-description = """{addon_description}"""
+summary = "{internetStatus}"
+description = """{Announces internet status and pressing twice opens the internet systray menu. Shortcut: NVDA+Alt+i}"""
