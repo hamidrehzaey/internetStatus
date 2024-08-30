@@ -9,7 +9,7 @@
 	"displayName": "internetStatus",
 	"publisher": "hamidrehzaey",
 	"description": "Announces internet status and pressing twice opens the internet systray menu. Shortcut: NVDA+Alt+i",
-	"homepage": "https://github.com/hamidrehzaey/internetStatus",
+	"homepage": "https://addons.nvda-project.org/addons/internetStatus/",
 	"minNVDAVersion": {
 		"major": 2024.3,
 		"minor": 2019.1,
