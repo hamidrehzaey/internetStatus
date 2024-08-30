@@ -16,11 +16,11 @@ def _(arg):
 # Add-on information variables
 addon_info = {
 	# add-on Name/identifier, internal for NVDA
-	"addon_name": "internetStatus",
+	"addon_name": "InternetStatus",
 	# Add-on summary, usually the user visible name of the addon.
 	# Translators: Summary for this add-on
 	# to be shown on installation and add-on information found in Add-ons Manager.
-	"addon_summary": _("internetStatus"),
+	"addon_summary": _("Internet Status"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("""Announces internet status and pressing twice opens the internet systray menu. Shortcut: NVDA+Alt+i"""),
@@ -29,7 +29,7 @@ addon_info = {
 	# Author(s)
 	"addon_author": "hamid rezaei",
 	# URL for the add-on documentation support
-	"addon_url": "https://github.com/hamidrehzaey/internetStatus",
+	"addon_url": "https://addons.nvda-project.org/addons/internetStatus",
 	# URL for the add-on repository where the source code can be found
 	"addon_sourceURL": "https://github.com/hamidrehzaey/internetStatus",
 	# Documentation file name
