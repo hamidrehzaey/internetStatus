@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: internetStatus 2026.3.1\n"
+"POT-Creation-Date: 2026-11-26 07:24+0330\n"
+"PO-Revision-Date: 2026-11-26 07:24+0330\n"
+"Last-Translator: \n"
+"Language-Team: Persian\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+
+msgid "Internet Status"
+msgstr "وضعیت اینترنت"
+
+msgid ""
+"Announces all connected networks and internet status, opens the Windows "
+"network menu, and speaks and copies the connected Wi-Fi password.\n"
+"Press NVDA+Alt+i once to announce the status of all connected networks.\n"
+"Press twice to open the Windows network menu.\n"
+"Press three times to speak and copy the connected Wi-Fi password."
+msgstr ""
+"وضعیت تمام شبکه‌های متصل و اینترنت را اعلام می‌کند، منوی شبکه ویندوز را باز "
+"می‌کند و رمز وای‌فای متصل را خوانده و کپی می‌کند.\n"
+"یک بار فشردن NVDA+Alt+i: اعلام وضعیت تمام شبکه‌های متصل.\n"
+"دو بار فشردن: باز کردن منوی شبکه ویندوز.\n"
+"سه بار فشردن: خواندن و کپی کردن رمز وای‌فای متصل."
+
+msgid "{network}: Internet access"
+msgstr "{network}: دسترسی اینترنت دارد"
+
+msgid "{network}: No internet access"
+msgstr "{network}: بدون دسترسی اینترنت"
+
+msgid "Internet access"
+msgstr "دسترسی اینترنت برقرار است"
+
+msgid "No internet access"
+msgstr "دسترسی اینترنت وجود ندارد"
+
+msgid "Not connected - No connections are available"
+msgstr "متصل نیست - اتصالی در دسترس نیست"
+
+msgid "{network} password copied: {password}"
+msgstr "رمز {network} کپی شد: {password}"
+
+msgid "{network} password: {password}"
+msgstr "رمز {network}: {password}"
+
+msgid "No connected Wi-Fi network found"
+msgstr "شبکه وای‌فای متصلی پیدا نشد"
+
+msgid "No saved password found for {network}"
+msgstr "رمز ذخیره‌شده‌ای برای {network} پیدا نشد"
+
+msgid "Unable to get Wi-Fi password"
+msgstr "امکان دریافت رمز وای‌فای وجود ندارد"
+
+msgid "internet  icon not found"
+msgstr "آیکون اینترنت پیدا نشد"
+
+msgid "Unable to activate internet context menu"
+msgstr "امکان باز کردن منوی اینترنت وجود ندارد"
+
+msgid ""
+"If pressed once, announces internet status. If pressed twice, opens the "
+"internet menu. If pressed three times, speaks and copies the connected Wi-Fi "
+"password"
+msgstr ""
+"با یک بار فشردن، وضعیت اینترنت را اعلام می‌کند. با دو بار فشردن، منوی شبکه "
+"ویندوز را باز می‌کند. با سه بار فشردن، رمز وای‌فای متصل را خوانده و کپی می‌کند"

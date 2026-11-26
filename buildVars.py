@@ -16,20 +16,23 @@ def _(arg):
 # Add-on information variables
 addon_info = {
 	# add-on Name/identifier, internal for NVDA
-	"addon_name": "InternetStatus",
+	"addon_name": "internetStatus",
 	# Add-on summary, usually the user visible name of the addon.
 	# Translators: Summary for this add-on
 	# to be shown on installation and add-on information found in Add-ons Manager.
 	"addon_summary": _("Internet Status"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description": _("""Announces internet status and pressing twice opens the internet systray menu. Shortcut: NVDA+Alt+i"""),
+	"addon_description": _("""Announces all connected networks and internet status, opens the Windows network menu, and speaks and copies the connected Wi-Fi password.
+Press NVDA+Alt+i once to announce the status of all connected networks.
+Press twice to open the Windows network menu.
+Press three times to speak and copy the connected Wi-Fi password."""),
 	# version
-	"addon_version": "2026.1",
+	"addon_version": "2026.3.1",
 	# Author(s)
 	"addon_author": "hamid rezaei",
 	# URL for the add-on documentation support
-	"addon_url": "https://addons.nvda-project.org/addons/internetStatus",
+	"addon_url": "https://github.com/hamidrehzaey/internetStatus",
 	# URL for the add-on repository where the source code can be found
 	"addon_sourceURL": "https://github.com/hamidrehzaey/internetStatus",
 	# Documentation file name
@@ -37,7 +40,7 @@ addon_info = {
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
 	"addon_minimumNVDAVersion": "2019.1",
 	# Last NVDA version supported/tested (e.g. "2018.4.0", ideally more recent than minimum version)
-	"addon_lastTestedNVDAVersion": "2026.1",
+	"addon_lastTestedNVDAVersion": "2026.3.1",
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
